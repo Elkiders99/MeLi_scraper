@@ -1,0 +1,13 @@
+pickles
+
+*.pickle
+
+tags
+
+.envKAI
+
+*__pycache__*
+
+local.db
+
+venv/
