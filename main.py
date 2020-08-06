@@ -54,7 +54,7 @@ if __name__ == "__main__":
 'Total new distinct products with characterstics': total_new_distinct,
 'Total used products': total_used,
 }
-    for key,value in results:
+    for key,value in results.items():
         print(f'{key}: {value}')
 
 
